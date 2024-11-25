@@ -727,6 +727,7 @@ def CAMa18(driver):
 #     logger.info('CAMa-19 TC Precondition 설정 완료')
 #     time.sleep(150)
 #     videosave(driver, videoname)
+# 이 코드가 궁금하신가요? 코드 짠애가 똥멍청이라서 영상으로 못뽑히는 프로파일까지 코드를 짜놨답니다
 
 
     
