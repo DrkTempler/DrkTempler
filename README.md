@@ -8,9 +8,8 @@
 
 이것은 빅스캠의 자동화입니다
 비디오 설정대로 영상이 뽑혔는지 확인하는 과정입니다
-어차피 혼자 개발하는데 깃은 왜만들었냐구요?
-내맴입니다
-저 퇴사하믄 여기참조해서 개발하세용ㅋㅋ
+Mediainfo까지 돌려주는 친절한 녀석입니다
+흑흑
 
 <!---
 DrkTempler/DrkTempler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
